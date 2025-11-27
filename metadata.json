@@ -1,0 +1,5 @@
+{
+  "name": "Cheesy Subtitle Simulator",
+  "description": "A 1-bit aesthetic WebGL journey that generates pseudo-philosophical travel subtitles using Gemini API.",
+  "requestFramePermissions": []
+}
